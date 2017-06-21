@@ -1,0 +1,6 @@
+/vendor/
+cache/*
+log/*
+.idea
+img/*
+modules/erply/erply_log.txt

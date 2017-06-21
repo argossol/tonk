@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled 
+05b9f5b876301a886b58177dd1446a34830302c2 refs/remotes/origin/develop
+f7a1ccfd557b2e2a94033da57efa073292c840e2 refs/remotes/origin/sync-cmd
